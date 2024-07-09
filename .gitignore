@@ -1,0 +1,6 @@
+venv/
+database/
+*.pyc
+
+# add your html filter logic here
+src/crawler/html_thief.py

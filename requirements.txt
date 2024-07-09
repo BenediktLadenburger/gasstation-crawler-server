@@ -1,0 +1,7 @@
+python-dotenv
+requests
+waitress
+Flask
+flask-cors
+PyJWT
+bcrypt
