@@ -1,6 +1,7 @@
 venv/
 database/
 *.pyc
+.env
 
 # add your html filter logic here
 src/crawler/html_thief.py
